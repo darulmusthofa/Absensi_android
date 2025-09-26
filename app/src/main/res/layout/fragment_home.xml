@@ -27,7 +27,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="24dp"
         android:layout_marginTop="24dp"
-                    android:text="Halo, Satpam!"
+                    android:text="Assalamualaikum, Lurr!"
         android:textColor="#1A1A1A"
         android:textSize="24sp"
         android:textStyle="bold"
@@ -41,7 +41,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="24dp"
         android:layout_marginTop="4dp"
-                    android:text="Selamat datang di aplikasi absensi satpam"
+                    android:text="Selamat datang di aplikasi absensi MARSA"
         android:textColor="#757575"
         android:textSize="14sp"
         app:layout_constraintStart_toStartOf="parent"
@@ -120,8 +120,8 @@
                 <TextView
                             android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                            android:text="Informasi Shift"
-                            android:textStyle="bold"
+                            android:text="Informasi Tugas"
+                    android:textStyle="bold"
                     android:textSize="16sp" />
 
             <TextView
